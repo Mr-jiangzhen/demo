@@ -95,7 +95,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'方正行楷简体 Bold', '方正行楷简体';
+  font-family:'方正行楷简体 Bold', '方正行楷简体 Regular', '方正行楷简体';
   font-weight:700;
   font-style:normal;
   font-size:36px;
@@ -108,7 +108,7 @@
   top:179px;
   width:224px;
   height:43px;
-  font-family:'方正行楷简体 Bold', '方正行楷简体';
+  font-family:'方正行楷简体 Bold', '方正行楷简体 Regular', '方正行楷简体';
   font-weight:700;
   font-style:normal;
   font-size:36px;
@@ -136,7 +136,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Calibri Bold Italic', 'Calibri';
+  font-family:'Calibri Bold Italic', 'Calibri Regular', 'Calibri';
   font-weight:700;
   font-style:italic;
   color:#FFFFFF;
@@ -148,7 +148,7 @@
   top:627px;
   width:94px;
   height:18px;
-  font-family:'Calibri Bold Italic', 'Calibri';
+  font-family:'Calibri Bold Italic', 'Calibri Regular', 'Calibri';
   font-weight:700;
   font-style:italic;
   color:#FFFFFF;
